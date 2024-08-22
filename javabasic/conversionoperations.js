@@ -72,9 +72,9 @@ let num1, num2, num3
 //console.log(num1)
 
 let gameCounter = 1000
-gameCounter++ // ++gamecounter - Presidence Operator(prefix operator or postfix operator) both are right. But actually there is a difference in it. In prefix, value is incremented before usage and in postfix, value is incremented after the usage.
-// You can read and learn this from "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment"
-// (++) it is called Presidence Operator.
+gameCounter++ // ++gamecounter - Presidence Operator(prefix operator or postfix operator) both are right. But actually there is a difference in it. In prefix, value is incremented before usage & in postfix, value is incremented after the usage.
+// Read & learn from "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment"
+// (++) it is a Presidence Operator.
 console.log(gameCounter)
 
 
